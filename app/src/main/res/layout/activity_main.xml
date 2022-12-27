@@ -18,7 +18,7 @@
         android:hint="Nota 1"
         android:inputType="number"
         android:maxLength="2"
-        android:padding="15dp"
+        android:padding="20dp"
         android:text="" />
 
 
@@ -34,7 +34,7 @@
         android:hint="Nota 2"
         android:inputType="number"
         android:maxLength="2"
-        android:padding="15dp"
+        android:padding="20dp"
         android:text="" />
 
     <EditText
@@ -47,7 +47,7 @@
         android:hint="Nota 3"
         android:inputType="number"
         android:maxLength="2"
-        android:padding="15dp"
+        android:padding="20dp"
         android:layout_marginTop="50dp"
         android:layout_marginLeft="50dp"
         android:text="" />
@@ -62,7 +62,7 @@
         android:hint="Nota 4"
         android:inputType="number"
         android:maxLength="2"
-        android:padding="15dp"
+        android:padding="20dp"
         android:layout_marginTop="50dp"
         android:layout_marginRight="50dp"
         android:layout_alignParentRight="true"
@@ -75,7 +75,7 @@
         android:layout_below="@id/nota3"
         android:background="@color/gray_lIght"
         android:gravity="center"
-        android:hint="Numero de falta"
+        android:hint="Numero de falta."
         android:inputType="number"
         android:maxLength="2"
         android:padding="20dp"
