@@ -1,2 +1,6 @@
 # App---Nota-do-Aluno
-###### Curso de Android com java![Screenshot_20221226_190459](https://user-images.githubusercontent.com/89355850/209594585-09f0b65c-17ba-4c21-a5e6-acd3e19bf907.png)
+###### Curso de Android com java!![
+
+<div align="">
+<img src="https://user-images.githubusercontent.com/89355850/209596203-4e0b8c28-41eb-4fe1-a5f2-799909c7cdc3.png" width="200px" />
+</div>
